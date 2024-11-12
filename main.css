@@ -62,10 +62,10 @@ header{margin: auto;width: 300px;border-radius: 10px 10px;padding: 30px;cursor: 
 dl{padding: 7px;}
 dt{padding: 7px;text-align: left;text-shadow: 9px;font-size: 20px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: oblique;}
 dd{padding: 7px;text-align: left;text-shadow: 9px;font-size: 15px;font-family: Arial, Helvetica, sans-serif;font-style: initial;}
-thead{text-shadow: 9px;text-align: left;font-size: 30px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: oblique;}
+thead{text-shadow: 9px;text-align: left;font-size: 20px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: oblique;}
 tbody{text-shadow: 9px;text-align: left;font-size: 15px;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-style: italic;}
 tfoot{text-shadow: 9px;text-align: left;font-size: 20px;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-style: inherit;}
-.img:hover{transition: transform(0.3s);transform: scale(1.01);}
+.img:hover{transition: transform(0.6s);transform: scale(1.08);}
 .footer:hover{transition: transform(0.4s);transform: scale(1.02);}
 .nav:hover{transition: transform(0.5s);transform: scale(1.04);}
 .header:hover{transition: transform(0.3s);transform: scale(1.04);}
